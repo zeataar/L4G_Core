@@ -52,7 +52,7 @@
 #include "PetAI.h"
 #include "MovementGenerator.h"
 
-#define SPELL_CHANNEL_UPDATE_INTERVAL 1000
+#define SPELL_CHANNEL_UPDATE_INTERVAL 200
 
 extern pEffect SpellEffects[TOTAL_SPELL_EFFECTS];
 
